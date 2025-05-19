@@ -1,0 +1,20 @@
+name: icbc-stock
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - seaborn
+  - scikit-learn
+  - texlive-core
+  - pandoc
+  - pip
+  - pip:
+      - plotly
+      - akshare
+      - tensorflow
+      - keras-tuner
