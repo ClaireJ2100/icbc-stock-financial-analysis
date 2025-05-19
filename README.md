@@ -7,6 +7,10 @@ Industrial and Commercial Bank of China (ICBC) is one of the world’s largest c
 
 Our goal is to explore the historical trends in ICBC's stock price by analyzing its price trends, distribution of daily returns, and trading volume. We then conduct a risk analysis by visualizing volatility and calculating Value at Risk (VaR). Finally, we forecast future prices using a Long Short-Term Memory (LSTM) neural network.
 
+### Report
+
+You can find the full project report [here](https://github.com/ClaireJ2100/icbc-stock-financial-analysis/blob/main/icbc-stock.pdf).
+
 ## Project Highlights
 - **Data Collection**: Retrieved daily ICBC A-share price data using the `akshare` package.
 - **Exploratory Data Analysis**:
